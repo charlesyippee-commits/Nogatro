@@ -1,0 +1,9 @@
+{
+    "id": "nogatro",
+    "name": "Nogatro",
+    "author": ["TechNogVr"],
+    "description": "The Offical TechNog Balatro Mod! Hope you enjoy!",
+    "prefix": "nogatro",
+    "main_file": "main.lua",
+    "version": "0.0.1DEMO"
+}
